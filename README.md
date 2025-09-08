@@ -12,6 +12,7 @@ It includes different Python tasks for learning and practice.
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
-  https://github.com/sudheer829940/python_projects.git
+   https://github.com/sudheer829940/python_projects.git
+
+  
   
